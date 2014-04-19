@@ -1,3 +1,7 @@
 hi bro
 hi san!
+<<<<<<< HEAD
 hi san2!
+=======
+hi bbbbbroooo
+>>>>>>> 38e9c89a8a7cd6266046ba309efb957767c8e22c
